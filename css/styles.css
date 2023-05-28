@@ -1,7 +1,7 @@
 body {
-  background: #000000;
+  background: #F8F6F2;
   color: #fff;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 15px;
   letter-spacing: 2px;
   
@@ -29,7 +29,7 @@ img {
 
 
 .profile-name{
-  color: gray;
+  color: #E57C23;
     font-family: sans-serif;
     text-align: center;
     font-size: 20px;
@@ -46,7 +46,7 @@ img {
 
 
 .profile-name3 {
-  color: gray;
+  color: #E57C23;
   font-family: sans-serif;
   text-align: center;
   font-size: 20px;
@@ -54,7 +54,7 @@ img {
 
 
 .profile-name3  span{
-  color: white;
+  color: #E57C23;
   font-weight: 500;
 }
 
