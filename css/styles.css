@@ -9,9 +9,8 @@ body {
 
 img {
   border-radius: 50%;
-  border-color: #fff;
   padding: 15px;
-  width: 40%;
+  width: 10%;
 }
 
 
@@ -20,8 +19,7 @@ img {
   display: block;    
   margin-left: auto;
   margin-right: auto;
-  width: 100%;
-  border-color: #fff
+  width: 40%;
 }
 
 .profiledata{
